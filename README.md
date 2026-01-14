@@ -1,6 +1,6 @@
 # Lot no. 023 | Accessories for the Samyang/Rokinon 24mm f3.5 Tilt Shift Lens
 
-![productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
+![productShot001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/PRODUCT/samyang_24mmTS.JPG)
 
 ### In this repository:
 - [Tripod Collar](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
