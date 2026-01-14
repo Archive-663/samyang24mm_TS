@@ -36,4 +36,9 @@ Please view the _assembly.stp file for help in parts orientation. If you do not 
 
 ### Samples:
 
-![sy24mmF3_5BronicaS2_001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(4).jpg)
+![sy24mmF3_5BronicaS2_001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/SAMPLE/sy24_3-5%20(1).jpg)
+![sy24mmF3_5BronicaS2_001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/SAMPLE/sy24_3-5%20(2).jpg)
+![sy24mmF3_5BronicaS2_001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/SAMPLE/sy24_3-5%20(8).jpg)
+![sy24mmF3_5BronicaS2_001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/SAMPLE/sy24_3-5%20(10).jpg)
+![sy24mmF3_5BronicaS2_001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/SAMPLE/sy24_3-5%20(12).jpg)
+
