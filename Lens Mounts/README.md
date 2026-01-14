@@ -1,7 +1,5 @@
 ## Samyang/Rokinon 24mm F3.5 Tilt Shift Lens Mounts
 
-![sy24mm_f3-5LensMounts001](https://github.com/Archive-663/lensAdapters/blob/main/Olympus%20PEN-F/ASSETS/dumbAdapter_PENF_crop.jpg)
-
 A collection of replacement lens mounts for the Samyang/Rokinon 24mm f3.5 Tilt Shift Lens
 
 ### Features:
