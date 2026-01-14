@@ -1,6 +1,6 @@
 ## Tripod Collar for the Samyang/Rokinon 24mm f3.5 Tilt Shift lens
 
-![sy24mmF3_5TripodCollar001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(4).jpg)
+![sy24mmF3_5TripodCollar001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/PRODUCT/samyang_24mmTS.JPG)
 
 ### Features:
 - Arca-Swiss compatible rail
