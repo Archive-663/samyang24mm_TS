@@ -1,6 +1,6 @@
 ## Bronica S2 Lens Mount Replacement for Samyang/Rokinon 24mm F3.5 Tilt Shift
 
-![productShot001](https://github.com/Archive-663/olympusPENF/blob/main/ASSETS/PRODUCT/product_PENF%20(1).jpg)
+![productShot001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/PRODUCT/1%20(3).jpg)
 
 ### Features:
 - Ultra wide angle FOV
