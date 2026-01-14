@@ -3,8 +3,8 @@
 ![productShot001](https://github.com/Archive-663/samyang24mm_TS/blob/main/ASSETS/PHOTO/PRODUCT/samyang_24mmTS.JPG)
 
 ### In this repository:
-- [Tripod Collar](https://github.com/Archive-663/olympusPENF/tree/main/L-Bracket)
-- [Lens Mounts](https://github.com/Archive-663/olympusPENF/tree/main/baseBody)
+- [Tripod Collar](https://github.com/Archive-663/samyang24mm_TS/tree/main/Tripod%20Collar)
+- [Lens Mounts](https://github.com/Archive-663/samyang24mm_TS/tree/main/Lens%20Mounts)
 
 ### Background Story:
 I've been looking for an affordable Tilt Shift lens for my GFX50s. This one fit the bill at $200 used on eBay. Yes, eventually I will pick up a Laowa shift lens, but for now this was an easy way to step into it with my GFX. Curiosity got the better of me and I adapted it to my Bronica S2A as a way to have a cheap ultra wide angle lens. Unfortunately it does not fully cover the 56mm x 56mm frame. I think it's useable as it's only extreme corner vignetting. 
